@@ -1,3 +1,3 @@
 # calculator-react-native
-# yarn
-# yarn android
+## yarn
+## yarn android
