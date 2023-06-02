@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import {SafeAreaView, StyleSheet, Switch, Text} from 'react-native';
 import {myColors} from './src/styles/Colors';
-import {ThemeContext} from './src/context/ThemeContext';
+import {ThemeContext} from '@context/ThemeContext';
 import MyKeyboard from '@components/MyKeyBoard';
 
 export default function App() {

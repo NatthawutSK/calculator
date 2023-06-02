@@ -1,9 +1,9 @@
 import * as React from 'react';
 import Button from './Button';
 import {View, Text} from 'react-native';
-import {Styles} from '../styles/GlobalStyles';
-import {myColors} from '../styles/Colors';
-import calculator, {initialState} from '../util//calculator';
+import {Styles} from '@styles/GlobalStyles';
+import {myColors} from '@styles/Colors';
+import calculator, {initialState} from '@util/calculator';
 import {useState} from 'react';
 
 export default function MyKeyboard() {
